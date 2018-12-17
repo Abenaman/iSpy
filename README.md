@@ -1,5 +1,5 @@
+
 # ISpy
 
 ## A simple android syware application
-### Need API level >= 19 
-Alt-H1
+ Need >=API Level: 19. Android 4.4 
